@@ -4,3 +4,9 @@
 [submodule "themes/harbor"]
 	path = themes/harbor
 	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "hugo-theme-cactus"]
+	path = hugo-theme-cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
