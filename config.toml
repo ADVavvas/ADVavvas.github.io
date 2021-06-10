@@ -1,0 +1,47 @@
+theme = "cactus"
+baseurl = "https://example.com/"
+title = "Alex V."
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[params]
+  colortheme = "white" # dark, light, white, or classic
+  description = "Hi, I'm Alex!<br>I'm a Computer Science graduate currently working as a mobile developer.<br>Recently I've been most interested in Computer Vision and Generative Art."
+
+  mainSection = "posts"
+  mainSectionTitle = "Posts"
+  
+  tagsoverview = false
+  overview = true
+
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 3
+
+  showProjectsList = true
+  projectsUrl = "https://github.com/advavvas"
+  copyright = "Alex V."
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/advavvas"
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/advavvas/"

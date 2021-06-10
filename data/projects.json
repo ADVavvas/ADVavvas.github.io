@@ -1,0 +1,29 @@
+{
+   "list": [
+      {
+         "name": "Dither",
+         "url": "https://github.com/ADVavvas",
+         "desc": "[WIP] A music recommendation app that uses a graph database."
+      },
+      {
+         "name": "Guess It",
+         "url": "https://github.com/ADVavvas",
+         "desc": "[WIP] A party-game style quiz app, made with Flutter."
+      },
+      {
+         "name": "visual-search",
+         "url": "https://github.com/ADVavvas/visual-search",
+         "desc": "A simple visual search system that implements the SIFT detector & descriptor."
+      },
+      {
+         "name": "Photo-Geotagging",
+         "url": "https://github.com/ADVavvas/Photo-Geotagging",
+         "desc": "A social-media app that allows association of photos to locations using geofencing."
+      },
+      {
+         "name": "Surrey Events",
+         "url": "https://github.com/ADVavvas/SurreyEvents",
+         "desc": "An app to tracks events around the UoS campus."
+      }
+   ]
+}
