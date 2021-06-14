@@ -4,6 +4,8 @@ date: 2021-06-12T19:18:10+03:00
 draft: false
 ---
 
+I'm going to be using the Java version of Processing, but feel free to use whatever you prefer. The same principles will apply.
+
 ## What are heightmaps?
 
 A heightmap is a raster image or more generally a grid that contains elevation data. Each value in the grid stores the height of the particular location. It's usually visualized as a grayscale image, with black being the minimum height, and white the maximum.
