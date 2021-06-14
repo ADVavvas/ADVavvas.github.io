@@ -1,7 +1,7 @@
 ---
 title: "How I made: Stylized Heightmaps pt. 1"
 date: 2021-06-12T19:18:10+03:00
-draft: true
+draft: false
 ---
 
 ## What are heightmaps?
